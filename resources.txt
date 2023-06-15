@@ -1,0 +1,11 @@
+Schema Design Blog: https://planetscale.com/blog/schema-design-101-relational-databases
+
+Relation Database Design: https://www.dolthub.com/blog/2022-07-08-database-design/
+
+https://phoenixnap.com/kb/what-is-a-relational-database
+
+Youtube Tutorials: https://www.youtube.com/watch?v=ezjoDYs72GA
+
+https://www.youtube.com/watch?v=I_rxqSJAj6U
+
+Debugging Help: Stack Overflow, Medium, google to verify syntax & debug errors
