@@ -22,11 +22,11 @@ Follow the steps below in the given order to replicate:
 ```
 \c librarydb
 ```
-4) Create tables which have no foriegn key dependecies (students,author,publisher,librarian)
+4) Create tables which have no foriegn key dependencies (students,author,publisher,librarian)
 ```
 \i 'Path/to/Queries/create_table_no_fk.pgsql'
 ```
-5) Create table Books and Checkouts using
+5) Create tables books and checkouts using
 ```
 \i 'Path/to/Queries/create_table_books.pgsql'
 \i 'Path/to/Queries/create_table_checkouts.pgsql'
