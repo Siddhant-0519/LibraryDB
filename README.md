@@ -7,7 +7,7 @@ Basic Relational Database for a Library using PostgresSQL
 Install latest version of PostgresSQL from https://www.postgresql.org/download/
 
 ## UML
-![Model](https://github.com/Siddhant-0519/LibraryDB/blob/main/UML.png)
+![Model](https://github.com/Siddhant-0519/LibraryDB/blob/main/uml.png)
 
 ## Usage
 
